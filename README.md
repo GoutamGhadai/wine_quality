@@ -1,7 +1,7 @@
 #UDACITY DATA SCIENTIST NANODEGREE PROJECT 1
 
 #1.Project Name - Wine_quality
-This Project predicts wine quality using Simple Linear Regression.
+This Project predicts wine quality using Multiple Linear Regression.
 Also evaluates the performance of the model.
 
 #Installations
@@ -26,11 +26,6 @@ This projects analyzes the corelation of quality with other features and use the
 This can can be modified to analyze other data sets other than amsterdam data.
 
 for more information refer to the medium blogpost for this project: https://medium.com/@goutam.ghadai2199/linear-regression-in-python-with-scikit-learn-36d293e15b98
-
-#summary of the project
-
-
-
 
 #Run
 In a terminal or command window, navigate to the top-level project directory Write_BlogPost/ (that contains this README) and run one of the following commands:
