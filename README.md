@@ -25,7 +25,7 @@ This projects analyzes the corelation of quality with other features and use the
 
 This can can be modified to analyze other data sets other than amsterdam data.
 
-for more information refer to the medium blogpost for this project: https://medium.com
+for more information refer to the medium blogpost for this project: https://medium.com/@goutam.ghadai2199/linear-regression-in-python-with-scikit-learn-36d293e15b98
 
 #summary of the project
 
